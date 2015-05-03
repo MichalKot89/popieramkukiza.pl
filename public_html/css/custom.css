@@ -1,0 +1,94 @@
+#updt {
+	width:100%;padding: 0;max-height: 500px;overflow: scroll;overflow: scroll;overflow-x: hidden;
+}
+.col-centered {
+	float: none !important;
+	margin: 0 auto !important;
+}
+.mytxt {
+	border-bottom: 1px solid #ccc;
+	line-height: 50px;
+	margin: 0;
+	padding: 0;
+}
+.top-box {
+	border: 1px solid #ccc;
+	padding: 0;
+	box-shadow: 4px 4px red;
+}
+.qst {
+	margin-left: 10%;
+	padding-top: 4%;
+	padding-bottom: 3%;
+}
+.qst p {
+	font-size: large;
+}
+.qst img {
+	display: -webkit-inline-box!important;
+}
+.form-control:focus {
+	border-color: #e9e9e9!important;
+}
+.form-control, input {
+	border-width: 1px!important;
+}
+.btn-default {
+	background-color: #ed1f24!important;
+	border-color: #ed1f24!important;
+}
+.btn {
+	margin-bottom: 11px!important;
+	padding: 10px 24px!important;
+}
+.ftr {
+	line-height: 30px;
+	background: red;
+	color: #fff;
+	padding: 10px;
+}
+.newbody {
+	padding: 0!important;
+	background: #FFF;
+	border: 1px solid #e9e9e9;
+}
+.ftr a {
+	color: #fff;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.add_area {
+	height: 88px !important;
+}
+.radio, .checkbox {
+	position: relative;
+	display: block;
+	margin-top: 19px!important;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 21px;
+	padding-left: 30px;
+	margin-bottom: 17px!important;
+}
+
+.img-clickable {
+    cursor: pointer;
+    display: inline !important;
+}
+
+.img-selected {
+    border: 1px solid blue;
+}
+
+.emails-tab {
+    display: none;
+}
+
+.email-form-icon {
+}
+
+.alert--center {
+    font-size: 19px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align: center;
+}
