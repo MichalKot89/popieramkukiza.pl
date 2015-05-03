@@ -71,7 +71,7 @@ class Database {
             'receivers' => 0
         );
 
-        $query = $this->connection->query("SELECT COUNT(1) + 11210 as count FROM emails");
+        $query = $this->connection->query("SELECT COUNT(1) as count FROM emails");
 
         if ($query === false) {
             return $results;
@@ -80,7 +80,7 @@ class Database {
             $results['receivers'] = (int) $result['count'];
         }
 
-        $query = $this->connection->query("SELECT COUNT(1)+152 as count FROM senders");
+        $query = $this->connection->query("SELECT COUNT(1) as count FROM senders");
 
         if ($query === false) {
             return $results;

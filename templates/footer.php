@@ -51,10 +51,10 @@ if ($counts['receivers'] === 1) {
             <div class="row row-centered">
                     <div class="col-lg-9">
                         Projekt powstał z inicjatywy obywatelskiej. <br />
-                        Dane użytkowników nie są gromadzone i w żaden sposób nie będą wykorzystane do innych celów.
+                        Dane użytkowników nie są gromadzone i w żaden sposób nie będą wykorzystane do innych celów. <br />Dla niedowiarków udostępniamy publicznie <a href="https://github.com/MichalKot89/popieramkukiza.pl" target="_blank"><u>kod źródłowy strony</u></a>.
                     </div>
                     <div class="col-lg-3 text-right">
-                         Autor: <a href="https://au.linkedin.com/pub/micha%C5%82-kot/52/254/693">Michał Kot</a><br /> Sugestie: sugestie@popieramkukiza.pl
+                         Autor: <a href="https://au.linkedin.com/pub/micha%C5%82-kot/52/254/693"><u>Michał Kot</u></a><br /> Sugestie: sugestie@popieramkukiza.pl
                     </div>
             </div>
         </div>

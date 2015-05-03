@@ -2,8 +2,8 @@
               <div class="col-lg-8 col-md-8 col-centered top-box" style="background:#fff;">
            		<h3 class="text-center mytxt">Jak To Działa?</h3>
                   <div class="qst">
-                      <p>1. Wybierasz znajomych, których chcesz powiadomić o poparciu dla Pawła Kukiza</p>
-                      <p>2. Zapraszamy Twoich znajomych do dołączenia do akcji</p>
+                      <p>1. Ze skrzynki pocztowej wybierasz znajomych, których chcesz powiadomić o poparciu dla Pawła Kukiza</p>
+                      <p>2. Mailowo zapraszamy Twoich znajomych do dołączenia do akcji</p>
                       <p>3. Twoi znajomi zapraszają swoich znajomych</p>
                       <p>4. Razem możemy coś zmienić</p>
                    </div>
@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="col-lg-2 col-md-2 "> </div>
                 <div class="col-lg-8 col-md-8  top-box">
-                    <h3 class="text-center mytxt">Wybierz swoją skrzynkę pocztową</h3>
+                    <h3 class="text-center mytxt">Krok 1: Wybierz swoją skrzynkę pocztową</h3>
                     <div class="qst" style="margin-right: 10%;">
                         <img src="img/email.jpg" class="img-responsive img-clickable" data-id="onet" />
                         <img src="img/s (1).jpg" class="img-responsive img-clickable" data-id="wp" />
@@ -44,8 +44,8 @@
                                 </div>
 
                                 <div id="emailFormIcon"></div>
-                                    <label style="font-size:12px; color: grey;">* Hasło nie jest dla nas widoczne, a po pobraniu kontaktów jest natychmiast usunięte z systemu i zapomniane.<br />
-                                    Jako dowód, udostępniamy publicznie <a href="https://github.com/MichalKot89/popieramkukiza.pl" target="_blank">kod źródłowy strony</a>.
+                                    <label style="font-size:12px; color: grey;">* Hasło nie jest dla nas widoczne, a po pobraniu kontaktów jest natychmiast usunięte z systemu i zapomniane.
+                                    
                                     </label>
                                 <button type="submit" class="btn btn-default btn pull-right">Wybierz kontakty</button>
 
