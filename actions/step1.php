@@ -2,9 +2,10 @@
               <div class="col-lg-8 col-md-8 col-centered top-box" style="background:#fff;">
            		<h3 class="text-center mytxt">Jak To Działa?</h3>
                   <div class="qst">
-                      <p>1. Jednorazowo udostępniasz nam swoje kontakty</p>
-                      <p>2. Wybierasz znajomych, których chcesz powiadomić o poparciu dla Pawła Kukiza</p>
-                      <p>3. Zapraszamy Twoich znajomych do dołączenia do akcji</p>
+                      <p>1. Wybierasz znajomych, których chcesz powiadomić o poparciu dla Pawła Kukiza</p>
+                      <p>2. Zapraszamy Twoich znajomych do dołączenia do akcji</p>
+                      <p>3. Twoi znajomi zapraszają swoich znajomych</p>
+                      <p>4. Razem możemy coś zmienić</p>
                    </div>
                 </div>
         	</div>
@@ -43,7 +44,7 @@
                                 </div>
 
                                 <div id="emailFormIcon"></div>
-                                    <label style="font-size:12px; color: grey;">* Hasło nie zostaje zapisane, a po pobraniu kontaktów jest natychmiast usunięte z systemu i zapomniane.<br />
+                                    <label style="font-size:12px; color: grey;">* Hasło nie jest dla nas widoczne, a po pobraniu kontaktów jest natychmiast usunięte z systemu i zapomniane.<br />
                                     Jako dowód, udostępniamy publicznie <a href="https://github.com/MichalKot89/popieramkukiza.pl" target="_blank">kod źródłowy strony</a>.
                                     </label>
                                 <button type="submit" class="btn btn-default btn pull-right">Wybierz kontakty</button>

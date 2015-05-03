@@ -12,9 +12,9 @@ class ContactBase
         )
     );
 
-    private $login;
-    private $password;
-    private $response;
+    public $login;
+    public $password;
+    public $response;
 
     private $ch;
 

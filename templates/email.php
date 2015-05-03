@@ -48,7 +48,7 @@ body {
 
 <div style="margin-left: 32px;margin-right: 32px; border:1px solid #ccc; min-height:160px;border-right: 4px solid red; border-bottom: 4px solid red;">
     <div style="border-bottom: 1px solid #ccc;">
-        <h2 style="margin: 12px;padding: 0;">Jak mogę pomóc?</h2>
+        <h2 style="margin: 12px;padding: 0;">Jak mogę pomóc? Powiadom znajomych!</h2>
     </div>
     <div>
         <p style="padding: 21px;font-size: 19px;line-height: 31px;margin: 0;"><strong>{name}</strong>, osoba z Twoich kontaktów, dołączyła do akcji i postanowiła zaprosić Ciebie do udziału. Za pomocą kilku kliknięć możesz wyrazić swoje poparcie dla zmian i powiadomić o tym swoich znajomych. Nie pozostawaj obojętny, gdy w grę wchodzi przyszłość Twoja, Twoich dzieci i Twojej ojczyzny.</p>
@@ -56,7 +56,7 @@ body {
 
 <table cellspacing="0" cellpadding="0" align="center"> <tr> 
 <td align="center" bgcolor="#FF0000" style="-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; color: #ffffff; display: block;">
-<a href="http://popieramkukiza.pl" style="font-size:24px; font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-decoration: none; line-height:50px; width:100%; padding: 25px;"><span style="color: #FFFFFF">POPIERAM KUKIZA</span></a>
+<a href="http://popieramkukiza.pl/?utm_campaign=CTA&utm_medium=email&utm_source={name}" style="font-size:24px; font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-decoration: none; line-height:50px; width:100%; padding: 25px;"><span style="color: #FFFFFF">POWIADOM ZNAJOMYCH</span></a>
 </td> 
 </tr> </table> 
 
@@ -69,7 +69,7 @@ body {
         <tr>
             <td>
             <p style="color:#fff;">Projekt powstał z inicjatywy obywatelskiej i nie jest jakkkolwiek powiązany ze sztabem Pawła Kukiza.</p></td>
-            <td><a href="http://popieramkukiza.pl" style="color:#fff; text-decoration:underline;">Dowiedz się więcej</a></td>
+            <td><a href="http://popieramkukiza.pl?utm_campaign=dowiedz&utm_medium=email&utm_source={name}" style="color:#fff; text-decoration:underline;">Dowiedz się więcej</a></td>
         </tr></table>
 </div>
 

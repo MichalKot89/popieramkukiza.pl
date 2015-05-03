@@ -20,8 +20,8 @@ $sent = array();
 foreach ($emails as $email) {
     $preparedContent = str_replace(array('{name}'), $email['name'], $content);
 
-$title1 = "Pomożesz?";
-$title2 = "Dołącz do walki o lepsze jutro";
+$title1 = "Zagłosuj dla Polski";
+$title2 = "Powiadom znajomych o Twoim poparciu dla Pawła Kukiza";
 if(hexdec(substr(md5($email['receiver']), 1, 8)) % 2 > 0) {
 	$title = $title1;
 }
@@ -38,3 +38,5 @@ else {
 if (count($sent) > 0) {
     $database->markAsSent($sent);
 }
+
+?>
